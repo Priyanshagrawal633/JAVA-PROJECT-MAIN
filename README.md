@@ -1,4 +1,4 @@
-Project: Campus Course & Records Manager (CCRM) - Humanized Code Variant
+Project: Campus Course & Records Manager (CCRM) 
 
 Requirements
 ------------
